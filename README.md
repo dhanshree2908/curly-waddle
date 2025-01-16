@@ -1,4 +1,4 @@
-# curly-waddle
+CARE TECH
 CNC Machine Maintenance Monitoring and Alert System
 
 Project Description - "A CNC (Computer Numerical Control) machine requires regular maintenance to ensure optimal performance and longevity. One critical aspect of maintenance is timely oiling, typically required after a specified number of working hours. To facilitate this, an automated system is needed to monitor the machine's working hours and alert the operator in advance of the required maintenance."
